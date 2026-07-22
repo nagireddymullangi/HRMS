@@ -1,0 +1,48 @@
+{
+  "conversationId": "25352b1c-b1ea-4149-98f3-25fec529b57d",
+  "title": "Explain the following SpEL Expression with a clear...",
+  "requesterUsername": "nagireddymullangi",
+  "responderUsername": "GitHub Copilot",
+  "turns": [
+    {
+      "message": {
+        "text": "Explain the following SpEL Expression with a clear summary first, followed by a breakdown of the expression with details: \n\nisAuthenticated()\n\n"
+      },
+      "currentDocument": {
+        "uri": "/hrms-backend/src/main/java/com/hrms/controller/PayrollController.java"
+      },
+      "references": [],
+      "ignoredSkills": [],
+      "userLanguage": "en",
+      "source": "panel",
+      "model": "Auto",
+      "chatMode": "Agent",
+      "customChatModeId": "Agent",
+      "needToolCallConfirmation": true,
+      "turnId": "105ae827-88a6-4cf1-8f6d-f8f30ac99a35",
+      "role": "user",
+      "timestamp": "2026-07-08T11:39:26.130511300Z"
+    },
+    {
+      "reply": {
+        "annotations": [],
+        "references": [],
+        "hideText": false,
+        "notifications": [],
+        "followups": [],
+        "errorMessages": [],
+        "editAgentRounds": [],
+        "panelMessages": [],
+        "steps": [],
+        "agentMessages": [],
+        "data": {},
+        "billingMultiplier": 0.0
+      },
+      "turnId": "484dc5b3-38f4-42c6-b220-3a4b4657eb9d",
+      "role": "copilot",
+      "timestamp": "2026-07-08T11:39:27.720870900Z"
+    }
+  ],
+  "creationDate": "2026-07-08T11:39:25.936367600Z",
+  "lastMessageDate": "2026-07-08T11:39:27.715864700Z"
+}

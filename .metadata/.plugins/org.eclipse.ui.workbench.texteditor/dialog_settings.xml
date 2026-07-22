@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="java.lang.Class">
+		<item key="replaceBarOpen" value="false"/>
+		<list key="findhistory">
+			<item value="ApiResponse.success"/>
+			<item value="ApiResponse"/>
+			<item value="getPayrolls"/>
+			<item value="(readOnly = true)"/>
+			<item value="getOr"/>
+			<item value="return"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,56 @@
+{
+  "conversationId": "9e4bff0f-75d6-407b-ad50-a8f484720443",
+  "title": "Explain the following SpEL Expression with a clear...",
+  "requesterUsername": "nagireddymullangi",
+  "responderUsername": "GitHub Copilot",
+  "turns": [
+    {
+      "message": {
+        "text": "Explain the following SpEL Expression with a clear summary first, followed by a breakdown of the expression with details: \n\nhasAnyRole(\u0027SUPER_ADMIN\u0027,\u0027HR_ADMIN\u0027)\n\n"
+      },
+      "currentDocument": {
+        "uri": "/hrms-backend/src/main/java/com/hrms/controller/LeaveController.java"
+      },
+      "references": [],
+      "ignoredSkills": [],
+      "userLanguage": "en",
+      "source": "panel",
+      "model": "Auto",
+      "chatMode": "Agent",
+      "customChatModeId": "Agent",
+      "needToolCallConfirmation": true,
+      "turnId": "51e0e2dd-1c14-4c53-b7a9-6474978dd60f",
+      "role": "user",
+      "timestamp": "2026-07-06T04:34:57.905031300Z"
+    },
+    {
+      "reply": {
+        "annotations": [],
+        "references": [],
+        "hideText": false,
+        "notifications": [],
+        "followups": [],
+        "errorMessages": [
+          {
+            "error": {
+              "message": "Oops, the model is not supported. Please try again.",
+              "code": 400
+            }
+          }
+        ],
+        "editAgentRounds": [],
+        "panelMessages": [],
+        "steps": [],
+        "agentMessages": [],
+        "data": {},
+        "modelName": "Claude Haiku 4.5",
+        "billingMultiplier": 1.0
+      },
+      "turnId": "239a01f2-411d-4b72-a382-78dddb9b5b74",
+      "role": "copilot",
+      "timestamp": "2026-07-06T04:34:59.103146800Z"
+    }
+  ],
+  "creationDate": "2026-07-06T04:34:57.862523Z",
+  "lastMessageDate": "2026-07-06T04:35:00.621131400Z"
+}
