@@ -1,0 +1,8 @@
+// src/main/java/com/hrms/exception/BadRequestException.java
+package com.hrms.exception;
+
+public class BadRequestException extends RuntimeException {
+    public BadRequestException(String message) {
+        super(message);
+    }
+}
